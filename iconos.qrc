@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>buscar.png</file>
+        <file>contactos.png</file>
+        <file>salir.png</file>
+        <file>registrar.png</file>
+        <file>buscar2.png</file>
+        <file>contacto.png</file>
+        <file>perfil.png</file>
+        <file>avatar.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../../../Imágenes/iconos/perfil.png</file>
+    </qresource>
+</RCC>
